@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Permission Handling</string>
+    <string name="permision_alert">permission granted</string>
+    <string name="notify_user">This application cannot work without location permission</string>
+</resources>
